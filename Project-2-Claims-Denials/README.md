@@ -1,7 +1,7 @@
 Claims & Denials Analysis Dashboard
 
  Overview
-This project analyzes healthcare claims data to identify denial trends, revenue loss, and billing performance across hospice organizations.
+This project analyzes healthcare claims data to identify denial trends and overall claims performance across hospice organizations.
 
 Tools Used
 - Power BI  
@@ -10,8 +10,7 @@ Tools Used
 Key Metrics
 - Total Claims  
 - Denied Claims  
-- Denial Rate  
-- Revenue Loss  
+- Denial Rate    
 
 Features
 - Interactive dashboard with slicers for filtering by hospice  
@@ -21,7 +20,7 @@ Features
 Insights
 - Identified hospices with the highest denial rates  
 - Highlighted gaps between billed and paid amounts  
-- Provided visibility into revenue loss from denied claims  
+- Provided visibility into claims performance across organizations 
 
 Dashboard Preview
 
